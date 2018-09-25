@@ -1,0 +1,10 @@
+App(root)  - NAV - 1) Signed in links 2) Signed out links
+   |
+   |
+Dashboard - ProjectDetails -  CreateProject -  Sign in - Sign up
+ / |        /project/:id     /create          /signin   /signup
+   |
+Project list + Notification
+   (list)          (notes)
+
+Backend (Firestore db + Firebase Auth + Cloud Functions)
